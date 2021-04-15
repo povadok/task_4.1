@@ -7,8 +7,19 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. Что-то
-2. [git add](./add.md)
+
+1. [Установка git](./installation.md)
+2. [Регистрация на github.com](./registration.md)
+3. [Новый проект](./new_project.md)
+#### **Основные операции git**
+
+1. [git config](./git_config.md)
+3. [git init](./git_init.md)
+4. [git add](./git_add.md)
+5. [git commit](./git_commit.md)
+6. [git clone](git_clone.md)
+7. [git remote](git_remote.md)
+8. [Файл .gitignore](git_ignore.md)
 
 
 ---
